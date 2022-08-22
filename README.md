@@ -15,6 +15,9 @@ exhentai.org mirror powered by Clash
 - ehentai free version is [here (e-hentai-mirror-royalty-free)](https://github.com/foxe6/e-hentai-mirror-royalty-free)
 - this is for demonstration only, limitations are expected
 - become a donor to receive freemium access
+  - better response time, less limitations
+  - gallery metadata api
+  - reliable redundant upstream
 - support this project to bring more features to live
 
 # acknowledgement
