@@ -16,7 +16,7 @@ exhentai.org mirror powered by Clash
 - this is for demonstration only, limitations are expected
 - become a donor to receive freemium access
   - better response time, less limitations
-  - gallery metadata api
+  - gallery metadata api [(https://api.e-hentai.org/api.php)](https://api.e-hentai.org/api.php)
   - reliable redundant upstream
 - support this project to bring more features to live
 
