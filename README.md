@@ -6,6 +6,13 @@ exhentai.org mirror powered by Clash
 - replace `https` to `http`
 - replace `exhentai.org` to `ex.hentai.xxx.kozow.com`
 
+# premium-access
+- better response time, fewer limitations
+- gallery metadata api [(https://api.e-hentai.org/api.php)](https://api.e-hentai.org/api.php)
+- reliable redundant upstream
+- coming soon
+  - 'favorites' page
+
 # important
 - Disclaimer: This host has no knowledge regarding contents of this page.
 - TOS: User who visit this page are responsible for their own actions.
@@ -14,10 +21,7 @@ exhentai.org mirror powered by Clash
 # notes
 - ehentai free version is [here (e-hentai-mirror-royalty-free)](https://github.com/foxe6/e-hentai-mirror-royalty-free)
 - this is for demonstration only, limitations are expected
-- become a donor to receive freemium access
-  - better response time, fewer limitations
-  - gallery metadata api [(https://api.e-hentai.org/api.php)](https://api.e-hentai.org/api.php)
-  - reliable redundant upstream
+- become a donor to receive premium access
 - support this project to bring more features to live
 
 # acknowledgement
