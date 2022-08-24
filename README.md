@@ -11,7 +11,13 @@ exhentai.org mirror powered by Clash
 - gallery metadata api [(https://api.e-hentai.org/api.php)](https://api.e-hentai.org/api.php)
 - reliable redundant upstream
 - coming soon
+  - display mode on front and search pages
   - 'favorites' page
+  - 'torrents' page
+  - search bar hint, word completion while typing
+  - report gallery
+  - Petition to Expunge
+  - Petition to Rename
 
 # important
 - Disclaimer: This host has no knowledge regarding contents of this page.
