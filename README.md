@@ -10,6 +10,7 @@ exhentai.org mirror powered by Clash
 - better response time, fewer limitations
 - gallery metadata api [(https://api.e-hentai.org/api.php)](https://api.e-hentai.org/api.php)
 - reliable redundant upstream
+- bypass offensive content warning
 - coming soon
   - display mode on front and search pages
   - 'torrents' page
