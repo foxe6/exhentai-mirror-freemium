@@ -12,7 +12,6 @@ exhentai.org mirror powered by Clash
 - reliable redundant upstream
 - coming soon
   - display mode on front and search pages
-  - 'favorites' page
   - 'torrents' page
   - search bar hint, word completion while typing
   - thumbnail size on gallery page
@@ -20,7 +19,9 @@ exhentai.org mirror powered by Clash
   - Petition to Expunge
   - Petition to Rename
   - vote comment on gallery page
-  - post new comment on gallery page
+  - independent account
+    - post new comment on gallery page
+    - 'favorites' page
 
 # important
 - Disclaimer: This host has no knowledge regarding contents of this page.
