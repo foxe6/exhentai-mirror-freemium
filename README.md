@@ -15,9 +15,12 @@ exhentai.org mirror powered by Clash
   - 'favorites' page
   - 'torrents' page
   - search bar hint, word completion while typing
+  - thumbnail size on gallery page
   - report gallery
   - Petition to Expunge
   - Petition to Rename
+  - vote comment on gallery page
+  - post new comment on gallery page
 
 # important
 - Disclaimer: This host has no knowledge regarding contents of this page.
