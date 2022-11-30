@@ -26,6 +26,9 @@ exhentai.org mirror powered by Clash
     - ~~post new comment on gallery page~~
     - ~~'favorites' page~~
 
+# private-access
+- visit [local-copy](local-copy)
+
 # important
 - Disclaimer: This host has no knowledge regarding contents of this page.
 - TOS: User who visit this page are responsible for their own actions.
