@@ -1,5 +1,6 @@
 # exhentai-mirror-premium
-exhentai.org mirror powered by Clash
+exhentai.org mirror powered by Clash  
+local exhentai gallery reader
 
 # how-to-use
 - visit any original page
@@ -27,7 +28,7 @@ exhentai.org mirror powered by Clash
     - ~~'favorites' page~~
 
 # private-access
-- visit [local-copy](local-copy)
+- visit [local-reader](local-reader)
 
 # important
 - Disclaimer: This host has no knowledge regarding contents of this page.
@@ -43,6 +44,7 @@ exhentai.org mirror powered by Clash
 - 30-11-2022
   - new access policy
   - discarded demo upstream
+  - new local reader
 - 13-09-2022
   - new domain
   - discarded freemium version due to low popularity
