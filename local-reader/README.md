@@ -1,4 +1,4 @@
-# Local Copy of ExHentai.org
+# Local Reader of ExHentai.org
 This is solely for private purposes only.  
 It is not for public use.  
 No one is responsible for any misuse.
