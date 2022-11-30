@@ -5,6 +5,8 @@ exhentai.org mirror powered by Clash
 - visit any original page
 - replace `exhentai.org` to `ex.hentaihub.cf`
   - demonstration only, limitations are expected
+  - send an additional header in order to access
+    - `curl -H "foxe6: 1" -H "User-Agent: Chrome/999" https://ex.hentaihub.cf`
 
 # premium-access
 - better response time, fewer limitations
@@ -35,6 +37,9 @@ exhentai.org mirror powered by Clash
 - ~~support this project to bring more features to live~~
 
 # log
+- 30-11-2022
+  - new access policy
+  - discarded demo upstream
 - 13-09-2022
   - new domain
   - discarded freemium version due to low popularity
