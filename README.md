@@ -5,7 +5,6 @@ exhentai.org mirror powered by Clash
 - visit any original page
 - replace `exhentai.org` to `ex.hentaihub.cf`
   - demonstration only, limitations are expected
-  - demo upstream may not update frequently
 
 # premium-access
 - better response time, fewer limitations
